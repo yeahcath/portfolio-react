@@ -1,6 +1,6 @@
-import './header.css'
+import '.repos/.css'
 
-function Header() {
+function Repos() {
     return(
         <> 
             
@@ -9,4 +9,4 @@ function Header() {
     )
 }
 
-export default Header
+export default Repos

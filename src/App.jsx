@@ -1,10 +1,18 @@
-import './App.css'
-import Header
+import Header from './components/Header/Header'
+import About from './components/About/About'
+import Projects from './components/Projects/Projects'
+import Footer from './components/Footer/Footer'
+
 
 function App() {
+  
   <div className="App">
-    <Header/>
 
+    <Header/>
+    <About/>
+    <hr></hr>
+    <Projects/>
+    <Footer/>
 
   </div>
   
